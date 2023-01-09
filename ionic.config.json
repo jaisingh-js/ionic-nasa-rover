@@ -1,0 +1,7 @@
+{
+  "name": "ionic-nasa-rover",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
